@@ -10,3 +10,5 @@ packages <- c("limma","stats","methods","RColorBrewer","clusterProfiler","GGally
 new.packages <- packages[!(packages %in% installed.packages()[,"Package"])]
 
 install.packages(new.packages)
+
+#update
