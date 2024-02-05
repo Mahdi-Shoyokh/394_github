@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1706545055103.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2B8B6FB5",
+    "lastKnownWriteTime" : 4562592122,
+    "last_content_update" : 1706545055103,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6B5ACB9E",
+        "caption" : "annotgene",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=annotgene&cache_key=6B5ACB9E",
+        "displayedObservations" : "513780",
+        "environment" : "",
+        "expression" : "annotgene",
+        "object" : "annotgene",
+        "preview" : "0",
+        "totalObservations" : "513780",
+        "variables" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

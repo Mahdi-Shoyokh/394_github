@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1706543270029.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "92C54C4",
+    "lastKnownWriteTime" : 46,
+    "last_content_update" : 1706543270029,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "4191673a40f84786a42db1a0fa9ffa15",
+        "name" : "gds",
+        "title" : "gds"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

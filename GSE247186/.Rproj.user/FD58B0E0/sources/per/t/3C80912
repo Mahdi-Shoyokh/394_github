@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1706542903354.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2289434539",
+    "id" : "3C80912",
+    "lastKnownWriteTime" : 1706550048,
+    "last_content_update" : 1706550050150,
+    "path" : "/Volumes/MAHDI/PhD/B394a/GSE247186/GSE247189_ANALYSIS.R",
+    "project_path" : "GSE247189_ANALYSIS.R",
+    "properties" : {
+        "cursorPosition" : "160,0",
+        "scrollLine" : "147"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
